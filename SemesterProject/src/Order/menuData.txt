@@ -1,0 +1,10 @@
+DESERTS
+	Sunny	33.33	DontKnow
+MAINCOURSE
+	Izza	100.1	Sweet
+
+		0.0	
+	Sunny	63.6	hdasdyudnull
+sunny	898.0	dasukdhasi	ComboBox@75b7bd5[styleClass=combo-box-base combo-box]
+nadasj	5965.564	hsakhsuaj	null
+dad	95.6	dsahd	DESERTS
